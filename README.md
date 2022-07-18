@@ -1,5 +1,5 @@
 # HospitalSystem
-## There are 20 different specialization (e.g. Children, Surgery, etc)
+### There are 20 different specialization (e.g. Children, Surgery, etc)
 ### For each specialization, there are only 5 available spots [queue]
 ## Adding a patient
 ### Read the requested specialization [1-20].
